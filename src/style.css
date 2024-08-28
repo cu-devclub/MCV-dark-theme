@@ -1,0 +1,380 @@
+body {
+	background-color: #161616 !important;
+	color: white !important;
+}
+
+#cvfooter-content {
+	color: white !important;
+}
+
+#courseville-logo-sider {
+	color: white !important;
+}
+
+#courseville-panel-mid-inner {
+	background-color: #2e2e2e !important;
+	color: white !important
+}
+
+#courseville-panel-mid {
+	background-color: #2e2e2e !important;
+	border: 1px solid #2e2e2e !important;
+	min-height: 80vh !important;
+}
+
+.courseville-content-course-subpage-button {
+	background-color: #424242 !important;
+	border-radius: 4px !important;
+	padding: 10px !important;
+	color:white !important;
+}
+
+.courseville-courseicon-text {
+	color:white !important;
+}
+
+.courseville-courseicongroup {
+	background-color: #242424 !important;
+	box-shadow: 1px 1px #000000 !important;
+
+}
+.courseville-header {
+	color:white !important;
+}
+
+div[data-part="bg-effect"] {
+	background-color: #1d1d1d !important;
+}
+
+.courseville-courseicon:hover {
+	color: black !important;
+}
+
+#courseville-courselist-home .courseville-courseicongroup[data-view="grid"] .courseville-courseicon {
+	background-color: #3d3d3d !important;
+	border-radius: 10px !important;
+}
+
+.cvui-table.cvui-table-striped tbody > tr:nth-child(2n+1) {
+    background: rgba(0, 0, 0, 0.6) !important;
+	color: white !important;
+}
+
+.cvui-table.cvui-table-striped tbody > tr:nth-child(2n) {
+    background: rgba(0, 0, 0, 0.8) !important;
+	color: white !important;
+}
+
+.courseville-viewable-content-link-look {
+	color: white !important;
+}
+
+a {
+	color: white !important;
+}
+
+.cv-fa-button {
+	color: rgb(163, 223, 248) !important;
+}
+
+.btn-default.cv-bs {
+    background: rgba(0, 0, 0, 0.6) !important;
+	color: white !important;
+}
+
+.cv-assignment-marker {
+	background-color: white !important;
+	padding: 2px !important;
+	border-radius: 3px !important;
+}
+
+.cvui-table thead {
+    background: #545454 !important;
+}
+
+.courseville-instruction {
+    color: #ffffff !important;
+    background: #3e3e3e !important;
+}
+
+.btn-default.cv-bs {
+	border: none !important;
+}
+
+#cvpagemap-explanation-for-student {
+	color: white !important;
+}
+
+#courseville-portfolio-content-basic-tab {
+	background-color: rgb(58, 58, 58) !important;
+}
+
+#courseville-portfolio-content-outcome-tab {
+	background-color: rgb(89, 89, 89) !important;
+}
+
+:root {
+	--maintheme-color: #000000 !important;
+	--maintheme-color-darker: #000000 !important;
+	--maintheme-color-trans-80: #181818cc !important;
+	--maintheme-color-trans-40: #35353566 !important;
+	--hot-color: #FFA200 !important;
+	--palesky-color: #212121 !important;
+	--table-striped-bg: #131313 !important;
+	--maintheme-striped-color-bg-1: #212121 !important;
+	--maintheme-striped-color-bg-2: #131313 !important;
+}
+
+div[data-part="num"] {
+	color:rgb(100, 100, 100) !important;
+}
+
+.modal.cv-bs .modal-header, .modal.cv-bs .modal-body, .modal.cv-bs .modal-footer {
+	background-color: rgb(26, 26, 26) !important;
+}
+
+.courseville-gradeditem-histogram-header {
+    border-bottom: 1px solid white !important;
+}
+
+.child-of- {
+	 color: #000000 !important;
+}
+
+.cvdlit-cv-playlist .cvdlit-item {
+	background-color: #464646 !important;
+}
+
+.cvwlr-card {
+	background: #464646 !important;
+}
+
+#courseville-aboutcourse-general-tab{
+	background-color: rgb(58, 58, 58) !important;
+}
+
+#courseville-aboutcourse-outcome-tab{
+	background-color: rgb(89, 89, 89) !important;
+}
+
+.cvui-section-title {
+    border-bottom: 2px solid white !important;
+}
+
+.courseville-table tr:nth-child(2n+1) {
+	background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.courseville-table tr:nth-child(2n) {
+	background: rgba(0, 0, 0, 0.8) !important;
+}
+
+#cvsplash-dialog {
+	background-color: rgb(26, 26, 26) !important;
+}
+
+#courseville-worksheet-instruction{
+	background-color: #2e2e2e !important;
+}
+
+#courseville-worksheet-work-pane-wrapper {
+	background-color: #434343 !important;
+}
+
+#courseville-worksheet-work {
+	background-color: #2e2e2e !important;
+}
+
+#courseville-worksheet-instruction-namebar {
+	background-color: #141414 !important;
+	color: white !important;
+}
+
+div[data-info="duetime"]{
+	color: white !important;
+}
+
+.courseville-worksheet-work-namebar{
+	color: white !important;
+}
+
+.cvui-section-title{
+	color: white !important;
+}
+
+.cvui-section-title{
+	color: white !important;
+}
+
+.courseville-worksheet-work-status{
+	color: white !important;
+}
+
+.courseville-worksheet-work-namebar{
+	color: white !important;
+}
+
+#courseville-worksheet-work-representing{
+	color: white !important;
+	background-color: #434343 !important;
+}
+
+#courseville-worksheet-work-status{
+	color: white !important;
+}
+
+#courseville-worksheet-work-tab-attachment{
+	background-color: rgb(58, 58, 58) !important;
+}
+
+.courseville-attachment-slot-history{
+	background-color: #545454 !important;
+}
+
+.courseville-attachment-slot-history-title{
+	color: white !important;
+}
+
+#courseville-attachment-slot-upload-122545{
+	background-color: #545454 !important;
+	color: white !important;
+}
+
+#courseville-worksheet-work-feedback-wrapper{
+	color: white !important;
+	background-color: #434343 !important;
+}
+
+#courseville-worksheet-work-pane-wrapper, #courseville-worksheet-work-feedback-wrapper{
+	color: white !important;
+}
+
+div[data-part="selected-filepath"] {
+	background-color: #202020 !important;
+}
+
+#courseville-attachment-slot-upload-target-122545{
+	background: #545454 !important;
+}
+
+#courseville-login-w-platform-cu-button {
+	background: #545454 !important;
+}
+
+#courseville-login-w-platform-button {
+	background: #545454 !important;
+}
+
+#courseville-login-w-platform-google-button{
+	background: #545454 !important;
+}
+
+#cvcookie-notice-dialog{
+	background: #545454 !important;
+}
+
+.courseville-login-button {
+	border: none !important;
+}
+
+.bg-gradient-gray {
+	background-image: none !important;
+}
+
+#cv-login-main {
+	background: #2e2e2e !important;
+}
+
+.cv-default-pagebg {
+	background: linear-gradient(180deg, rgba(122, 122, 122, 0.8), transparent) rgb(0, 0, 0) !important;
+}
+
+.form-control {
+	background-color: #616161 !important;
+	border-color: #616161 !important;
+	color: white !important;
+}
+
+.cvqs-qs-ol > li:nth-child(3n+1) .cvqs-qstn-wrapper {
+    background-color: #282828 !important;
+}
+
+.cvqs-qs-ol > li:nth-child(3n+2) .cvqs-qstn-wrapper {
+    background-color: #323232 !important;
+}
+
+.cvqs-qs-ol > li:nth-child(3n) .cvqs-qstn-wrapper {
+    background-color: #333333 !important;
+}
+
+.cvqs-qstn-question h3 span {
+	color: white !important;
+}
+
+.cvqs-qstn-question h3 a{
+	background-color: transparent !important;
+}
+
+.cvqs-answer-instruction {
+	color: rgb(170, 170, 170) !important;
+}
+
+.cvqs-floating-mark {
+	color: white !important;
+}
+
+.cvqs-qstn-info-on-point-content-form {
+	background: #000000 !important;
+}
+
+.cvqs-answer-multiplechoice-choiceitem > label:hover {
+	background: rgba(0, 0, 0, 0.4) !important;
+}
+
+#courseville-worksheet-work-tab-qs {
+	background-color: #434343 !important;
+}
+
+#courseville-worksheet-instruction {
+	overflow-x: hidden !important;
+}
+
+.courseville-feed-item-course {
+	color: white !important;
+}
+
+.courseville-feed-item-created{
+	color: rgb(173, 173, 173) !important;
+}
+
+.courseville-webpush-body {
+	color: white !important;
+}
+
+.courseville-webpush-primary-button {
+	text-decoration: none !important;
+	background-color: rgb(123, 123, 123) !important;
+	color: white !important;
+	padding: 5px !important;
+	border-radius: 10px !important;
+}
+
+.courseville-webpush-secondary-button {
+	text-decoration: none !important;
+	background-color: rgb(123, 123, 123) !important;
+	color: white !important;
+	padding: 5px !important;
+	border-radius: 10px !important;
+}
+
+.courseville-webpush-primary-button:hover {
+	background-color: rgb(64, 64, 64) !important;
+}
+
+.courseville-webpush-secondary-button:hover {
+	background-color: rgb(64, 64, 64) !important;
+}
+
+.cv-fa-collapse-control>.fa {
+	color: #ffffff !important;
+}
